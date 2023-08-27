@@ -2,4 +2,4 @@
 
 From multiple sources
 
-(Vecta)[https://vecta.io/]
+[Vecta](https://vecta.io/)
